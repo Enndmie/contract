@@ -1,10 +1,10 @@
 {
-  "name": "hey/contract",
-  "description": "The contracts of hey.",
+  "name": "heyes/contract",
+  "description": "The contracts of heyes.",
   "license": "MIT",
   "keywords": [
     "php",
-    "hey"
+    "heyes"
   ],
   "require": {
     "php": "^8.0",
@@ -12,7 +12,7 @@
   },
   "autoload": {
     "psr-4": {
-      "Hey\\Contract\\": "src/"
+      "Heyes\\Contract\\": "src/"
     }
   },
   "config": {
