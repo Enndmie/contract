@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace Hey\Contract;
+namespace Heyes\Contract;
 
 use Psr\Container\ContainerInterface as PsrContainerInterface;
 
