@@ -1,0 +1,21 @@
+{
+  "name": "hey/contract",
+  "description": "The contracts of hey.",
+  "license": "MIT",
+  "keywords": [
+    "php",
+    "hey"
+  ],
+  "require": {
+    "php": "^8.0",
+    "psr/container": "^2.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "Hey\\Contract\\": "src/"
+    }
+  },
+  "config": {
+    "sort-packages": true
+  }
+}
